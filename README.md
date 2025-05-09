@@ -20,9 +20,9 @@ An Excel-based dashboard project that analyzes sales trends using pivot tables a
 
 ## 📷 Screenshots
 
-![Monthly Sales](screenshots/chart_monthly_sales.png)  
-![Product Line Sales](screenshots/chart_sales_by_productline.png)  
-![Pivot Summary](screenshots/pivot_table_summary.png)
+![Monthly Sales](screenshots/chart_monthly_sales.PNG)  
+![Product Line Sales](screenshots/chart_sales_by_productline.PNG)  
+![Pivot Summary](screenshots/pivot_table_summary.PNG)
 
 ## 🔍 Key Insights
 
